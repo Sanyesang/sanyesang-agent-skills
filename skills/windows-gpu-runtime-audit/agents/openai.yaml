@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPU 四层排查"
+  short_description: "分别核验硬件、驱动、项目运行时与实际执行，定位应用为什么跑 CPU"
+  default_prompt: "用 $windows-gpu-runtime-audit 只读检查这个应用为何使用 CPU，区分系统显卡与当前环境能力。"

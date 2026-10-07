@@ -1,0 +1,4 @@
+interface:
+  display_name: "中文手机 PDF 验收"
+  short_description: "检查文本顺序、手机阅读字号、中文字体与实际渲染，避免只看生成成功"
+  default_prompt: "用 $chinese-mobile-pdf-qa 检查这个 PDF 的中文提取、语义顺序与手机阅读效果。"

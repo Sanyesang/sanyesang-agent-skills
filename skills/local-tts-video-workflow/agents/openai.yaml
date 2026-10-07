@@ -1,0 +1,4 @@
+interface:
+  display_name: "本地配音到视频交付"
+  short_description: "核对真实音色与语言限制，串联本地合成、试听、字幕和最终视频验收"
+  default_prompt: "用 $local-tts-video-workflow 规划本地配音和剪辑流程，先核对指定音色与文案语言。"

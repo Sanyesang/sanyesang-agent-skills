@@ -1,0 +1,4 @@
+interface:
+  display_name: "证据式项目接管"
+  short_description: "核对主源码、历史声明、真实运行与远端交付，明确已验证和未验证状态"
+  default_prompt: "用 $project-handoff-evidence 只读审查这个项目的交接资料，列出有证据的现状和待验收项。"

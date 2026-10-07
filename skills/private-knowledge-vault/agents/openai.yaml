@@ -1,0 +1,4 @@
+interface:
+  display_name: "私有知识库整理"
+  short_description: "将授权聊天和工程资料归入可追溯的知识库，区分事实归属、历史与缺口"
+  default_prompt: "用 $private-knowledge-vault 整理这些授权资料，保持本地私有并明确来源、脱敏边界和未覆盖部分。"

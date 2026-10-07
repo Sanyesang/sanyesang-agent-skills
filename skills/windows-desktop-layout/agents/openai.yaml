@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows 桌面四角布局"
+  short_description: "按真实网格和 Shell 标识规划四角图标，检查落位、重叠与恢复结果"
+  default_prompt: "用 $windows-desktop-layout 排查这个图标布局工具的预览与实际落位差异，先测量再修改。"

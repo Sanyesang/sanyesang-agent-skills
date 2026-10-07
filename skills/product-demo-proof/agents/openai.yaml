@@ -1,0 +1,4 @@
+interface:
+  display_name: "真实产品演示"
+  short_description: "以真实界面和用户流程支撑强卖点，检查字幕、声音与最终可播放成品"
+  default_prompt: "用 $product-demo-proof 为这个软件设计宣传演示，先区分已验证功能、原型和示意素材。"
